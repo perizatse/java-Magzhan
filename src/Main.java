@@ -1,11 +1,13 @@
 public class Main {
     public static void main(String[] args) {
-       int a = 10;
-       int b = 20;
-       int c = 30;
-       System.out.println(a+b+c);
+System.out.println("Hello world");// моя первая написанная программа.
+//однострочный комментарий
+        /*
+        первая строка
+        вторая строка
+        многострочный комментарий
+         */
 
     }
-
 }
 
