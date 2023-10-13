@@ -89,7 +89,7 @@ public class Magzhan_java {
         double фаренгейт = 200;
         double цельсий = 0.0;
         цельсий = (фаренгейт - 32) / 1.8;
-        System.out.println("Значение в градусах бабущка = " + цельсий);
+        System.out.println("Значение в градусах цельсия = " + цельсий);
 
         int po = 451;
         po += 10;

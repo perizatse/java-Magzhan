@@ -1,18 +1,18 @@
 
 m	java:S117)"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Äš‘›8ƒ°§ö±1
-r	java:S117Y"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.( Ã¼Êûÿÿÿÿ8ƒ°§ö±1
-r	java:S117Y"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.( Ã¼Êûÿÿÿÿ8ƒ°§ö±1
+m	java:S117Y"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÇúÊí8ƒ°§ö±1
+r	java:S117Z"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ìø¨øÿÿÿÿ8ß‡Î¡²1
 i	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(ŸËõ¼8…°§ö±1
 7
 java:S1220""Move this file to a named package.8…°§ö±1
 U
-java:S1854g"8Remove this useless assignment to local variable "fofo".(¼‡éÆ8âĞªö±1
+java:S1854h"8Remove this useless assignment to local variable "fofo".(¼‡éÆ8âĞªö±1
 Z
-java:S1854f"8Remove this useless assignment to local variable "dodo".(Ó””…üÿÿÿÿ8¼ö©ö±1
+java:S1854g"8Remove this useless assignment to local variable "dodo".(Ó””…üÿÿÿÿ8¼ö©ö±1
 Z
-java:S1854e"8Remove this useless assignment to local variable "popo".(ì¿—Òüÿÿÿÿ8™°§ö±1
+java:S1854f"8Remove this useless assignment to local variable "popo".(ì¿—Òüÿÿÿÿ8™°§ö±1
 d
-java:S1854Y"BRemove this useless assignment to local variable "Ñ†ĞµĞ»ÑŒÑĞ¸Ğ¹".( Ã¼Êûÿÿÿÿ8™°§ö±1
+java:S1854Z"BRemove this useless assignment to local variable "Ñ†ĞµĞ»ÑŒÑĞ¸Ğ¹".(Ìø¨øÿÿÿÿ8âˆÎ¡²1
 X
 java:S1854T";Remove this useless assignment to local variable "result4".(€İ’8™°§ö±1
 X
@@ -57,10 +57,8 @@ java:S1854"6Remove this useless assignment to local variable "ba".(·ú‚šùÿÿÿÿ8
 java:S1659">Declare "w" and all following declarations on a separate line.(ø¢Ø8›°§ö±1
 `
 java:S1659">Declare "d" and all following declarations on a separate line.(æÅÌ¼şÿÿÿÿ8›°§ö±1
-N
-java:S1659Y",Declare "Ñ†ĞµĞ»ÑŒÑĞ¸Ğ¹" on a separate line.( Ã¼Êûÿÿÿÿ8›°§ö±1
 D
-java:S1659e""Declare "popo" on a separate line.(ì¿—Òüÿÿÿÿ8›°§ö±1
+java:S1659f""Declare "popo" on a separate line.(ì¿—Òüÿÿÿÿ8›°§ö±1
 G	java:S106"+Replace this use of System.out by a logger.(ˆİ©é8œ°§ö±1
 G	java:S106"+Replace this use of System.out by a logger.(¿íø8°§ö±1
 L	java:S106"+Replace this use of System.out by a logger.(µÒ«Ñşÿÿÿÿ8°§ö±1
@@ -114,11 +112,16 @@ java:S1481S",Remove this unused "result3" local variable.(ŞĞä°8£°§ö±1
 I
 java:S1481T",Remove this unused "result4" local variable.(€İ’8£°§ö±1
 L	java:S106V"+Replace this use of System.out by a logger.(•îçÔşÿÿÿÿ8¤°§ö±1
-L	java:S106["+Replace this use of System.out by a logger.(ÿ˜éàùÿÿÿÿ8¤°§ö±1
-L	java:S106c"+Replace this use of System.out by a logger.(«ÕõÍşÿÿÿÿ8¥°§ö±1
+L	java:S106\"+Replace this use of System.out by a logger.(¢ÂÒ·øÿÿÿÿ8¤°§ö±1
+L	java:S106d"+Replace this use of System.out by a logger.(«ÕõÍşÿÿÿÿ8¥°§ö±1
 K
-java:S1481e")Remove this unused "popo" local variable.(ì¿—Òüÿÿÿÿ8¥°§ö±1
+java:S1481f")Remove this unused "popo" local variable.(ì¿—Òüÿÿÿÿ8¥°§ö±1
 K
-java:S1481f")Remove this unused "dodo" local variable.(Ó””…üÿÿÿÿ8Ìö©ö±1
+java:S1481g")Remove this unused "dodo" local variable.(Ó””…üÿÿÿÿ8Ìö©ö±1
 F
-java:S1481g")Remove this unused "fofo" local variable.(¼‡éÆ8Ñªö±1
+java:S1481h")Remove this unused "fofo" local variable.(¼‡éÆ8Ñªö±1
+E
+java:S1481k"(Remove this unused "xop" local variable.(Ô„®Å8Œ‰Î¡²1
+J
+java:S1481l"(Remove this unused "yop" local variable.(ú¸õ£ûÿÿÿÿ8‰Î¡²1
+]	java:S125m"<This block of commented-out lines of code should be removed.(õñç·üÿÿÿÿ8‰Î¡²1
