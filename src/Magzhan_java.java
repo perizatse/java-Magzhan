@@ -86,10 +86,10 @@ public class Magzhan_java {
         System.out.println(result5);
 
 
-        double фаренгейт = 200;
-        double цельсий = 0.0;
-        цельсий = (фаренгейт - 32) / 1.8;
-        System.out.println("Значение в градусах цельсия = " + цельсий);
+        double fahrenheit = 200;
+        double celsius = 0.0;
+        celsius = (fahrenheit - 32) / 1.8;
+        System.out.println("Значение в градусах цельсия = " + celsius);
 
         int po = 451;
         po += 10;
@@ -107,6 +107,12 @@ public class Magzhan_java {
         boolean xop = true;
         boolean yop = false;
         // && -> если оба true;
+
+        System.out.print(20  +  22 + "DarU ");
+        System.out.println("DarU" + 20 + 22);
+
+
+
 
     }
 
