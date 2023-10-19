@@ -1,127 +1,125 @@
 
-m	java:S117)"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Äš‘›8ƒ°§ö±1
-m	java:S117Y"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÇúÊí8ƒ°§ö±1
-r	java:S117Z"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ìø¨øÿÿÿÿ8ß‡Î¡²1
-i	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(ŸËõ¼8…°§ö±1
+m	java:S117*"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Äš‘›8ë´Ö¢³1
+i	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(ŸËõ¼8ì´Ö¢³1
 7
-java:S1220""Move this file to a named package.8…°§ö±1
-U
-java:S1854h"8Remove this useless assignment to local variable "fofo".(¼‡éÆ8âĞªö±1
-Z
-java:S1854g"8Remove this useless assignment to local variable "dodo".(Ó””…üÿÿÿÿ8¼ö©ö±1
-Z
-java:S1854f"8Remove this useless assignment to local variable "popo".(ì¿—Òüÿÿÿÿ8™°§ö±1
-d
-java:S1854Z"BRemove this useless assignment to local variable "Ñ†ĞµĞ»ÑŒÑĞ¸Ğ¹".(Ìø¨øÿÿÿÿ8âˆÎ¡²1
-X
-java:S1854T";Remove this useless assignment to local variable "result4".(€İ’8™°§ö±1
-X
-java:S1854S";Remove this useless assignment to local variable "result3".(ŞĞä°8™°§ö±1
-]
-java:S1854R";Remove this useless assignment to local variable "result2".(•š“×úÿÿÿÿ8™°§ö±1
-X
-java:S1854Q";Remove this useless assignment to local variable "result1".(ÚŒ®—8™°§ö±1
-S
-java:S1854H"6Remove this useless assignment to local variable "ix".( É®ª8™°§ö±1
-Y
-java:S1854A"=Remove this useless assignment to local variable "perimeter".(µ—ø&8™°§ö±1
+java:S1220""Move this file to a named package.8ì´Ö¢³1
+\
+java:S1854i":Remove this useless assignment to local variable "wight1".(ßŞĞÙûÿÿÿÿ8•µÖ¢³1
 W
-java:S1854@":Remove this useless assignment to local variable "square".(ç¡Ÿ¨8™°§ö±1
+java:S1854h";Remove this useless assignment to local variable "lenght1".(‹Ñ÷O8•µÖ¢³1
+W
+java:S1854[";Remove this useless assignment to local variable "celsius".(µ¯ş38•µÖ¢³1
+X
+java:S1854U";Remove this useless assignment to local variable "result4".(€İ’8•µÖ¢³1
+X
+java:S1854T";Remove this useless assignment to local variable "result3".(ŞĞä°8•µÖ¢³1
 ]
-java:S18541";Remove this useless assignment to local variable "MY_CITY".(áÛâëıÿÿÿÿ8™°§ö±1
+java:S1854S";Remove this useless assignment to local variable "result2".(•š“×úÿÿÿÿ8•µÖ¢³1
 X
-java:S18540"6Remove this useless assignment to local variable "PI".(ä•¬¸ÿÿÿÿÿ8™°§ö±1
-X
-java:S1854/";Remove this useless assignment to local variable "GRAVITY".(ìÿÍÇ8™°§ö±1
-X
-java:S1854-"6Remove this useless assignment to local variable "as".(Ø¯¾çÿÿÿÿÿ8™°§ö±1
+java:S1854R";Remove this useless assignment to local variable "result1".(ÚŒ®—8•µÖ¢³1
 S
-java:S1854*"6Remove this useless assignment to local variable "bo".(á˜—Ø8™°§ö±1
+java:S1854I"6Remove this useless assignment to local variable "ix".( É®ª8•µÖ¢³1
+Y
+java:S1854B"=Remove this useless assignment to local variable "perimeter".(µ—ø&8•µÖ¢³1
+W
+java:S1854A":Remove this useless assignment to local variable "square".(ç¡Ÿ¨8•µÖ¢³1
+]
+java:S18542";Remove this useless assignment to local variable "MY_CITY".(áÛâëıÿÿÿÿ8•µÖ¢³1
+X
+java:S18541"6Remove this useless assignment to local variable "PI".(ä•¬¸ÿÿÿÿÿ8•µÖ¢³1
+X
+java:S18540";Remove this useless assignment to local variable "GRAVITY".(ìÿÍÇ8•µÖ¢³1
+X
+java:S1854."6Remove this useless assignment to local variable "as".(Ø¯¾çÿÿÿÿÿ8•µÖ¢³1
+S
+java:S1854+"6Remove this useless assignment to local variable "bo".(á˜—Ø8•µÖ¢³1
 Z
-java:S1854'"8Remove this useless assignment to local variable "lays".(Á¸µƒùÿÿÿÿ8™°§ö±1
+java:S1854("8Remove this useless assignment to local variable "lays".(Á¸µƒùÿÿÿÿ8•µÖ¢³1
 X
-java:S1854&"6Remove this useless assignment to local variable "ch".(«òÂúÿÿÿÿ8™°§ö±1
+java:S1854'"6Remove this useless assignment to local variable "ch".(«òÂúÿÿÿÿ8•µÖ¢³1
 X
-java:S1854$";Remove this useless assignment to local variable "myFloat".(ÍÄÿã8™°§ö±1
+java:S1854%";Remove this useless assignment to local variable "myFloat".(ÍÄÿã8•µÖ¢³1
 [
-java:S1854#">Remove this useless assignment to local variable "yourDouble".(ìÁÍî8™°§ö±1
+java:S1854$">Remove this useless assignment to local variable "yourDouble".(ìÁÍî8•µÖ¢³1
 [
-java:S1854""9Remove this useless assignment to local variable "white".(øÊÕßúÿÿÿÿ8™°§ö±1
+java:S1854#"9Remove this useless assignment to local variable "white".(øÊÕßúÿÿÿÿ8•µÖ¢³1
 [
-java:S1854!"9Remove this useless assignment to local variable "black".(Ğßë±şÿÿÿÿ8š°§ö±1
+java:S1854""9Remove this useless assignment to local variable "black".(Ğßë±şÿÿÿÿ8•µÖ¢³1
 X
-java:S1854 "6Remove this useless assignment to local variable "sh".(À¿Âîûÿÿÿÿ8š°§ö±1
+java:S1854!"6Remove this useless assignment to local variable "sh".(À¿Âîûÿÿÿÿ8•µÖ¢³1
 X
-java:S1854"6Remove this useless assignment to local variable "ba".(·ú‚šùÿÿÿÿ8š°§ö±1
+java:S1854 "6Remove this useless assignment to local variable "ba".(·ú‚šùÿÿÿÿ8•µÖ¢³1
 [
-java:S1659">Declare "w" and all following declarations on a separate line.(ø¢Ø8›°§ö±1
+java:S1659">Declare "w" and all following declarations on a separate line.(ø¢Ø8–µÖ¢³1
 `
-java:S1659">Declare "d" and all following declarations on a separate line.(æÅÌ¼şÿÿÿÿ8›°§ö±1
-D
-java:S1659f""Declare "popo" on a separate line.(ì¿—Òüÿÿÿÿ8›°§ö±1
-G	java:S106"+Replace this use of System.out by a logger.(ˆİ©é8œ°§ö±1
-G	java:S106"+Replace this use of System.out by a logger.(¿íø8°§ö±1
-L	java:S106"+Replace this use of System.out by a logger.(µÒ«Ñşÿÿÿÿ8°§ö±1
-G	java:S106"+Replace this use of System.out by a logger.(­ –8°§ö±1
-L	java:S106"+Replace this use of System.out by a logger.(ãŒÂÔøÿÿÿÿ8°§ö±1
-G	java:S106"+Replace this use of System.out by a logger.(¸¥èû8°§ö±1
-L	java:S106"+Replace this use of System.out by a logger.(ÚûŸÙøÿÿÿÿ8Ÿ°§ö±1
-G	java:S106"+Replace this use of System.out by a logger.(Ë­‰Å8Ÿ°§ö±1
+java:S1659">Declare "d" and all following declarations on a separate line.(æÅÌ¼şÿÿÿÿ8–µÖ¢³1
+G	java:S106"+Replace this use of System.out by a logger.(ˆİ©é8—µÖ¢³1
+G	java:S106"+Replace this use of System.out by a logger.(¿íø8˜µÖ¢³1
+L	java:S106"+Replace this use of System.out by a logger.(µÒ«Ñşÿÿÿÿ8˜µÖ¢³1
+G	java:S106"+Replace this use of System.out by a logger.(­ –8™µÖ¢³1
+L	java:S106"+Replace this use of System.out by a logger.(ãŒÂÔøÿÿÿÿ8™µÖ¢³1
+G	java:S106"+Replace this use of System.out by a logger.(¸¥èû8™µÖ¢³1
+L	java:S106"+Replace this use of System.out by a logger.(ÚûŸÙøÿÿÿÿ8™µÖ¢³1
+G	java:S106"+Replace this use of System.out by a logger.(Ë­‰Å8™µÖ¢³1
 I
-java:S1481"'Remove this unused "ba" local variable.(·ú‚šùÿÿÿÿ8Ÿ°§ö±1
+java:S1481 "'Remove this unused "ba" local variable.(·ú‚šùÿÿÿÿ8šµÖ¢³1
 I
-java:S1481 "'Remove this unused "sh" local variable.(À¿Âîûÿÿÿÿ8 °§ö±1
+java:S1481!"'Remove this unused "sh" local variable.(À¿Âîûÿÿÿÿ8šµÖ¢³1
 L
-java:S1481!"*Remove this unused "black" local variable.(Ğßë±şÿÿÿÿ8 °§ö±1
+java:S1481""*Remove this unused "black" local variable.(Ğßë±şÿÿÿÿ8šµÖ¢³1
 L
-java:S1481""*Remove this unused "white" local variable.(øÊÕßúÿÿÿÿ8 °§ö±1
+java:S1481#"*Remove this unused "white" local variable.(øÊÕßúÿÿÿÿ8šµÖ¢³1
 L
-java:S1481#"/Remove this unused "yourDouble" local variable.(ìÁÍî8 °§ö±1
+java:S1481$"/Remove this unused "yourDouble" local variable.(ìÁÍî8šµÖ¢³1
 I
-java:S1481$",Remove this unused "myFloat" local variable.(ÍÄÿã8 °§ö±1
+java:S1481%",Remove this unused "myFloat" local variable.(ÍÄÿã8šµÖ¢³1
 H
-java:S1481%"+Remove this unused "tiktak" local variable.(ººÚ8 °§ö±1
+java:S1481&"+Remove this unused "tiktak" local variable.(ººÚ8šµÖ¢³1
 I
-java:S1481&"'Remove this unused "ch" local variable.(«òÂúÿÿÿÿ8 °§ö±1
+java:S1481'"'Remove this unused "ch" local variable.(«òÂúÿÿÿÿ8šµÖ¢³1
 K
-java:S1481'")Remove this unused "lays" local variable.(Á¸µƒùÿÿÿÿ8 °§ö±1
+java:S1481(")Remove this unused "lays" local variable.(Á¸µƒùÿÿÿÿ8šµÖ¢³1
 D
-java:S1481*"'Remove this unused "bo" local variable.(á˜—Ø8 °§ö±1
+java:S1481+"'Remove this unused "bo" local variable.(á˜—Ø8šµÖ¢³1
 I
-java:S1481-"'Remove this unused "as" local variable.(Ø¯¾çÿÿÿÿÿ8¡°§ö±1
+java:S1481."'Remove this unused "as" local variable.(Ø¯¾çÿÿÿÿÿ8šµÖ¢³1
 I
-java:S1481/",Remove this unused "GRAVITY" local variable.(ìÿÍÇ8¡°§ö±1
+java:S14810",Remove this unused "GRAVITY" local variable.(ìÿÍÇ8šµÖ¢³1
 I
-java:S14810"'Remove this unused "PI" local variable.(ä•¬¸ÿÿÿÿÿ8¡°§ö±1
+java:S14811"'Remove this unused "PI" local variable.(ä•¬¸ÿÿÿÿÿ8šµÖ¢³1
 N
-java:S14811",Remove this unused "MY_CITY" local variable.(áÛâëıÿÿÿÿ8¡°§ö±1
-L	java:S1067"+Replace this use of System.out by a logger.(¿¶îÿÿÿÿÿ8¡°§ö±1
-G	java:S106<"+Replace this use of System.out by a logger.(íÎ¦É8¢°§ö±1
+java:S14812",Remove this unused "MY_CITY" local variable.(áÛâëıÿÿÿÿ8šµÖ¢³1
+L	java:S1068"+Replace this use of System.out by a logger.(¿¶îÿÿÿÿÿ8›µÖ¢³1
+G	java:S106="+Replace this use of System.out by a logger.(íÎ¦É8›µÖ¢³1
 H
-java:S1481@"+Remove this unused "square" local variable.(ç¡Ÿ¨8¢°§ö±1
+java:S1481A"+Remove this unused "square" local variable.(ç¡Ÿ¨8›µÖ¢³1
 J
-java:S1481A".Remove this unused "perimeter" local variable.(µ—ø&8¢°§ö±1
-L	java:S106F"+Replace this use of System.out by a logger.(®±Í†ûÿÿÿÿ8¢°§ö±1
-G	java:S106M"+Replace this use of System.out by a logger.(—Ş“8£°§ö±1
+java:S1481B".Remove this unused "perimeter" local variable.(µ—ø&8›µÖ¢³1
+L	java:S106G"+Replace this use of System.out by a logger.(®±Í†ûÿÿÿÿ8›µÖ¢³1
+G	java:S106N"+Replace this use of System.out by a logger.(—Ş“8›µÖ¢³1
 I
-java:S1481Q",Remove this unused "result1" local variable.(ÚŒ®—8£°§ö±1
+java:S1481R",Remove this unused "result1" local variable.(ÚŒ®—8›µÖ¢³1
 N
-java:S1481R",Remove this unused "result2" local variable.(•š“×úÿÿÿÿ8£°§ö±1
+java:S1481S",Remove this unused "result2" local variable.(•š“×úÿÿÿÿ8›µÖ¢³1
 I
-java:S1481S",Remove this unused "result3" local variable.(ŞĞä°8£°§ö±1
+java:S1481T",Remove this unused "result3" local variable.(ŞĞä°8›µÖ¢³1
 I
-java:S1481T",Remove this unused "result4" local variable.(€İ’8£°§ö±1
-L	java:S106V"+Replace this use of System.out by a logger.(•îçÔşÿÿÿÿ8¤°§ö±1
-L	java:S106\"+Replace this use of System.out by a logger.(¢ÂÒ·øÿÿÿÿ8¤°§ö±1
-L	java:S106d"+Replace this use of System.out by a logger.(«ÕõÍşÿÿÿÿ8¥°§ö±1
-K
-java:S1481f")Remove this unused "popo" local variable.(ì¿—Òüÿÿÿÿ8¥°§ö±1
-K
-java:S1481g")Remove this unused "dodo" local variable.(Ó””…üÿÿÿÿ8Ìö©ö±1
-F
-java:S1481h")Remove this unused "fofo" local variable.(¼‡éÆ8Ñªö±1
-E
-java:S1481k"(Remove this unused "xop" local variable.(Ô„®Å8Œ‰Î¡²1
-J
-java:S1481l"(Remove this unused "yop" local variable.(ú¸õ£ûÿÿÿÿ8‰Î¡²1
-]	java:S125m"<This block of commented-out lines of code should be removed.(õñç·üÿÿÿÿ8‰Î¡²1
+java:S1481U",Remove this unused "result4" local variable.(€İ’8›µÖ¢³1
+L	java:S106W"+Replace this use of System.out by a logger.(•îçÔşÿÿÿÿ8œµÖ¢³1
+L	java:S106]"+Replace this use of System.out by a logger.(øß¶Áüÿÿÿÿ8œµÖ¢³1
+L	java:S106e"+Replace this use of System.out by a logger.(«ÕõÍşÿÿÿÿ8œµÖ¢³1
+H
+java:S1481h",Remove this unused "lenght1" local variable.(‹Ñ÷O8œµÖ¢³1
+M
+java:S1481i"+Remove this unused "wight1" local variable.(ßŞĞÙûÿÿÿÿ8œµÖ¢³1
+G	java:S106k"+Replace this use of System.out by a logger.(ö‘‡Á8œµÖ¢³1
+L	java:S106m"+Replace this use of System.out by a logger.(¹ªì¸øÿÿÿÿ8œµÖ¢³1
+G	java:S106r"+Replace this use of System.out by a logger.(ñçÜÊ8µÖ¢³1
+L	java:S106t"+Replace this use of System.out by a logger.(ŠÚèàÿÿÿÿÿ8µÖ¢³1
+G	java:S106y"+Replace this use of System.out by a logger.(ÊÏ½¦8µÖ¢³1
+G	java:S106{"+Replace this use of System.out by a logger.(É•ê»8µÖ¢³1
+L	java:S106}"+Replace this use of System.out by a logger.(š¡ˆºÿÿÿÿÿ8µÖ¢³1
+L	java:S106"+Replace this use of System.out by a logger.(ë¡¾Áûÿÿÿÿ8µÖ¢³1
+M	java:S106"+Replace this use of System.out by a logger.(ïÆé‚ûÿÿÿÿ8µÖ¢³1
+H	java:S106ƒ"+Replace this use of System.out by a logger.(²Ñ”÷8µÖ¢³1
+M	java:S106‰"+Replace this use of System.out by a logger.(ÚœÆ½ùÿÿÿÿ8«µÖ¢³1

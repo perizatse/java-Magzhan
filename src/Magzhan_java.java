@@ -1,3 +1,4 @@
+import java.util.Scanner;
 public class Magzhan_java {
     public static void main(String[] args) {
         System.out.println("Hello world");// моя первая написанная программа.
@@ -99,22 +100,58 @@ public class Magzhan_java {
         po *= 5;
         System.out.println(po);
 
-        int bobo = 65, popo = 80;
-        boolean dodo = (bobo < 50);
-        boolean fofo = (a < b);
+
+        int lenght1 = 10;
+        int wight1 = 20;
+        if (lenght == wight) {
+            System.out.println("It's a square");
+        } else {
+            System.out.println("It's a not square");
+        }
+
+        int price=15;
+        if (price>5000){
+            System.out.println("You have a 10 % discount");
+        }else {
+            System.out.println("You don't have disount");
 
 
-        boolean xop = true;
-        boolean yop = false;
-        // && -> если оба true;
+            int grade = 33;
+            if (grade <= 25) {
+                System.out.println("Ваша оценка F");
+            } else if (grade <= 45) {
+                System.out.println("Ваша оценка E");
+            } else if (grade <= 50) {
+                System.out.println("Ваша оценка D");
+            } else if (grade <= 60) {
+                System.out.println("Ваша оценка C");
+            } else if (grade <= 80) {
+                System.out.println("Ваша оценка B");
+            } else if (grade > 80) {
+                System.out.println("Ваша оценка A");
+            }
 
-        System.out.print(20  +  22 + "DarU ");
-        System.out.println("DarU" + 20 + 22);
+            Scanner in = new Scanner(System.in);
+            int n = in.nextInt();
+            if (n > 0) {
+                System.out.println("Это простое число");
+            }
+        }
 
 
 
 
     }
-
 }
+
+
+
+
+
+
+
+
+
+
+
 

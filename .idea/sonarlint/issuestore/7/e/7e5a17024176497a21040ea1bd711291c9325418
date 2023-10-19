@@ -1,5 +1,24 @@
 
 7
-java:S1220""Move this file to a named package.8ü¦´„°1
-
-java:S1186"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(Çµí‘8€§´„°1
+java:S1220""Move this file to a named package.8ıŸ³È³1
+L	java:S106"+Replace this use of System.out by a logger.(–ŞØÚşÿÿÿÿ8Ü¢³È³1
+G	java:S106
+"+Replace this use of System.out by a logger.( ì¯Œ8İ¢³È³1
+L	java:S106"+Replace this use of System.out by a logger.(Åü±¾úÿÿÿÿ8Ş¢³È³1
+L	java:S106"+Replace this use of System.out by a logger.(å‹›ìøÿÿÿÿ8Ş¢³È³1
+L	java:S106"+Replace this use of System.out by a logger.(ßÇ³¶úÿÿÿÿ8ß¢³È³1
+L	java:S106"+Replace this use of System.out by a logger.(Åü±¾úÿÿÿÿ8ß¢³È³1
+L	java:S106"+Replace this use of System.out by a logger.(ÎËó©ùÿÿÿÿ8à¢³È³1
+m	java:S128"LEnd this switch case with an unconditional break, return or throw statement.(úâúÿÿÿÿ8à¢³È³1
+m	java:S128"LEnd this switch case with an unconditional break, return or throw statement.(ªëÅŞúÿÿÿÿ8à¢³È³1
+C	java:S131""Add a default case to this switch.(ì»¾úÿÿÿÿ8à¢³È³1
+L	java:S106"+Replace this use of System.out by a logger.(ØÒº…üÿÿÿÿ8á¢³È³1
+L	java:S106 "+Replace this use of System.out by a logger.(Áªªóøÿÿÿÿ8á¢³È³1
+L	java:S106""+Replace this use of System.out by a logger.(Â Úúÿÿÿÿ8â¢³È³1
+m	java:S128+"LEnd this switch case with an unconditional break, return or throw statement.(µ»ïşıÿÿÿÿ8â¢³È³1
+m	java:S128)"LEnd this switch case with an unconditional break, return or throw statement.(úâúÿÿÿÿ8â¢³È³1
+m	java:S128'"LEnd this switch case with an unconditional break, return or throw statement.(ªëÅŞúÿÿÿÿ8â¢³È³1
+F	java:S106("+Replace this use of System.out by a logger.(Úğ€x8ã¢³È³1
+L	java:S106*"+Replace this use of System.out by a logger.(¶ñ®ııÿÿÿÿ8ã¢³È³1
+L	java:S106,"+Replace this use of System.out by a logger.(•‡¦ñúÿÿÿÿ8ä¢³È³1
+L	java:S106."+Replace this use of System.out by a logger.(æè¸‚ÿÿÿÿÿ8ä¢³È³1
