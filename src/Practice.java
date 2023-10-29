@@ -1,4 +1,4 @@
-public class Perizatjava {
+public class Practice {
     public static void main(String[] args) {
 
         if (30 < 10) {
@@ -44,6 +44,8 @@ public class Perizatjava {
                 System.out.println("Today is a Wednesday");
             default:
                 System.out.println("С нетерпением жду выходных");
+
+
         }
 
     }
