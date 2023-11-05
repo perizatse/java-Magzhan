@@ -1,0 +1,128 @@
+
+m	java:S117)"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Äš‘›8ª‰ÂØ·1
+m	java:S117r"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÉôÉÏ8ª‰ÂØ·1
+7
+java:S1220""Move this file to a named package.8«‰ÂØ·1
+o
+java:S3776"RRefactor this method to reduce its Cognitive Complexity from 16 to the 15 allowed.(Çµí‘8ÈÈÁá·1
+W
+java:S1854a";Remove this useless assignment to local variable "celsius".(µ¯ş38ŒŠÂØ·1
+X
+java:S1854[";Remove this useless assignment to local variable "result4".(€İ’8ŒŠÂØ·1
+X
+java:S1854Z";Remove this useless assignment to local variable "result3".(ŞĞä°8ŒŠÂØ·1
+]
+java:S1854Y";Remove this useless assignment to local variable "result2".(•š“×úÿÿÿÿ8ŒŠÂØ·1
+X
+java:S1854X";Remove this useless assignment to local variable "result1".(ÚŒ®—8ŒŠÂØ·1
+S
+java:S1854M"6Remove this useless assignment to local variable "ix".( É®ª8ŒŠÂØ·1
+Y
+java:S1854D"=Remove this useless assignment to local variable "perimeter".(µ—ø&8ŒŠÂØ·1
+W
+java:S1854C":Remove this useless assignment to local variable "square".(ç¡Ÿ¨8ŒŠÂØ·1
+]
+java:S18541";Remove this useless assignment to local variable "MY_CITY".(áÛâëıÿÿÿÿ8ŒŠÂØ·1
+X
+java:S18540"6Remove this useless assignment to local variable "PI".(ä•¬¸ÿÿÿÿÿ8ŒŠÂØ·1
+X
+java:S1854/";Remove this useless assignment to local variable "GRAVITY".(ìÿÍÇ8ŒŠÂØ·1
+X
+java:S1854-"6Remove this useless assignment to local variable "as".(Ø¯¾çÿÿÿÿÿ8ŒŠÂØ·1
+S
+java:S1854*"6Remove this useless assignment to local variable "bo".(á˜—Ø8ŒŠÂØ·1
+Z
+java:S1854'"8Remove this useless assignment to local variable "lays".(Á¸µƒùÿÿÿÿ8ŒŠÂØ·1
+X
+java:S1854&"6Remove this useless assignment to local variable "ch".(«òÂúÿÿÿÿ8ŒŠÂØ·1
+X
+java:S1854$";Remove this useless assignment to local variable "myFloat".(ÍÄÿã8ŒŠÂØ·1
+[
+java:S1854#">Remove this useless assignment to local variable "yourDouble".(ìÁÍî8ŒŠÂØ·1
+[
+java:S1854""9Remove this useless assignment to local variable "white".(øÊÕßúÿÿÿÿ8ŒŠÂØ·1
+[
+java:S1854!"9Remove this useless assignment to local variable "black".(Ğßë±şÿÿÿÿ8ŒŠÂØ·1
+X
+java:S1854 "6Remove this useless assignment to local variable "sh".(À¿Âîûÿÿÿÿ8ŒŠÂØ·1
+X
+java:S1854"6Remove this useless assignment to local variable "ba".(·ú‚šùÿÿÿÿ8ŒŠÂØ·1
+\
+java:S1854x":Remove this useless assignment to local variable "wight1".(ßŞĞÙûÿÿÿÿ8ŒŠÂØ·1
+W
+java:S1854w";Remove this useless assignment to local variable "lenght1".(‹Ñ÷O8ŒŠÂØ·1
+[
+java:S1659">Declare "w" and all following declarations on a separate line.(ø¢Ø8ŠÂØ·1
+`
+java:S1659">Declare "d" and all following declarations on a separate line.(æÅÌ¼şÿÿÿÿ8ŠÂØ·1
+G	java:S106"+Replace this use of System.out by a logger.(ˆİ©é8ŠÂØ·1
+G	java:S106"+Replace this use of System.out by a logger.(¿íø8ŠÂØ·1
+L	java:S106"+Replace this use of System.out by a logger.(µÒ«Ñşÿÿÿÿ8ŠÂØ·1
+G	java:S106"+Replace this use of System.out by a logger.(­ –8ŠÂØ·1
+L	java:S106"+Replace this use of System.out by a logger.(ãŒÂÔøÿÿÿÿ8ŠÂØ·1
+G	java:S106"+Replace this use of System.out by a logger.(¸¥èû8ŠÂØ·1
+L	java:S106"+Replace this use of System.out by a logger.(ÚûŸÙøÿÿÿÿ8ŠÂØ·1
+G	java:S106"+Replace this use of System.out by a logger.(Ë­‰Å8ŠÂØ·1
+I
+java:S1481"'Remove this unused "ba" local variable.(·ú‚šùÿÿÿÿ8ŠÂØ·1
+I
+java:S1481 "'Remove this unused "sh" local variable.(À¿Âîûÿÿÿÿ8ŠÂØ·1
+L
+java:S1481!"*Remove this unused "black" local variable.(Ğßë±şÿÿÿÿ8ŠÂØ·1
+L
+java:S1481""*Remove this unused "white" local variable.(øÊÕßúÿÿÿÿ8ŠÂØ·1
+L
+java:S1481#"/Remove this unused "yourDouble" local variable.(ìÁÍî8ŠÂØ·1
+I
+java:S1481$",Remove this unused "myFloat" local variable.(ÍÄÿã8ŠÂØ·1
+H
+java:S1481%"+Remove this unused "tiktak" local variable.(ººÚ8ŠÂØ·1
+I
+java:S1481&"'Remove this unused "ch" local variable.(«òÂúÿÿÿÿ8ŠÂØ·1
+K
+java:S1481'")Remove this unused "lays" local variable.(Á¸µƒùÿÿÿÿ8ŠÂØ·1
+D
+java:S1481*"'Remove this unused "bo" local variable.(á˜—Ø8ŠÂØ·1
+I
+java:S1481-"'Remove this unused "as" local variable.(Ø¯¾çÿÿÿÿÿ8ŠÂØ·1
+I
+java:S1481/",Remove this unused "GRAVITY" local variable.(ìÿÍÇ8ŠÂØ·1
+I
+java:S14810"'Remove this unused "PI" local variable.(ä•¬¸ÿÿÿÿÿ8ŠÂØ·1
+N
+java:S14811",Remove this unused "MY_CITY" local variable.(áÛâëıÿÿÿÿ8ŠÂØ·1
+G	java:S1064"+Replace this use of System.out by a logger.(ã€‡’8ŠÂØ·1
+L	java:S1069"+Replace this use of System.out by a logger.(¿¶îÿÿÿÿÿ8ŠÂØ·1
+G	java:S106?"+Replace this use of System.out by a logger.(íÎ¦É8ŠÂØ·1
+H
+java:S1481C"+Remove this unused "square" local variable.(ç¡Ÿ¨8ŠÂØ·1
+J
+java:S1481D".Remove this unused "perimeter" local variable.(µ—ø&8ŠÂØ·1
+L	java:S106J"+Replace this use of System.out by a logger.(®±Í†ûÿÿÿÿ8ŠÂØ·1
+G	java:S106S"+Replace this use of System.out by a logger.(—Ş“8ŠÂØ·1
+I
+java:S1481X",Remove this unused "result1" local variable.(ÚŒ®—8ŠÂØ·1
+N
+java:S1481Y",Remove this unused "result2" local variable.(•š“×úÿÿÿÿ8ŠÂØ·1
+I
+java:S1481Z",Remove this unused "result3" local variable.(ŞĞä°8ŠÂØ·1
+I
+java:S1481[",Remove this unused "result4" local variable.(€İ’8ŠÂØ·1
+L	java:S106]"+Replace this use of System.out by a logger.(•îçÔşÿÿÿÿ8ŠÂØ·1
+L	java:S106c"+Replace this use of System.out by a logger.(øß¶Áüÿÿÿÿ8ŠÂØ·1
+L	java:S106l"+Replace this use of System.out by a logger.(«ÕõÍşÿÿÿÿ8‘ŠÂØ·1
+F	java:S106s"+Replace this use of System.out by a logger.(¡š J8‘ŠÂØ·1
+H
+java:S1481w",Remove this unused "lenght1" local variable.(‹Ñ÷O8‘ŠÂØ·1
+M
+java:S1481x"+Remove this unused "wight1" local variable.(ßŞĞÙûÿÿÿÿ8‘ŠÂØ·1
+G	java:S106z"+Replace this use of System.out by a logger.(ö‘‡Á8‘ŠÂØ·1
+L	java:S106|"+Replace this use of System.out by a logger.(¹ªì¸øÿÿÿÿ8‘ŠÂØ·1
+M	java:S106…"+Replace this use of System.out by a logger.(Ú«åãøÿÿÿÿ8‘ŠÂØ·1
+H	java:S106‹"+Replace this use of System.out by a logger.(ÊÏ½¦8‘ŠÂØ·1
+H	java:S106"+Replace this use of System.out by a logger.(É•ê»8’ŠÂØ·1
+M	java:S106"+Replace this use of System.out by a logger.(š¡ˆºÿÿÿÿÿ8’ŠÂØ·1
+M	java:S106‘"+Replace this use of System.out by a logger.(ë¡¾Áûÿÿÿÿ8’ŠÂØ·1
+M	java:S106“"+Replace this use of System.out by a logger.(ïÆé‚ûÿÿÿÿ8’ŠÂØ·1
+H	java:S106•"+Replace this use of System.out by a logger.(²Ñ”÷8’ŠÂØ·1
+H	java:S106"+Replace this use of System.out by a logger.(Ü»ö–8ĞÈÁá·1

@@ -1,4 +1,22 @@
 
+m
+java:S13012"KReplace this "switch" statement by "if" statements to increase readability.(»€Ğıÿÿÿÿ8‰¬—‡¸1
 7
-java:S1220""Move this file to a named package.8şÊÕÈ³1
-L	java:S106"+Replace this use of System.out by a logger.(³ğ¸ûÿÿÿÿ8¢ËÕÈ³1
+java:S1220""Move this file to a named package.8Š¬—‡¸1
+o
+java:S3776"RRefactor this method to reduce its Cognitive Complexity from 17 to the 15 allowed.(Çµí‘8ü¯—‡¸1
+\
+java:S1659("?Declare "c2" and all following declarations on a separate line.(ú“¨™8ˆ°—‡¸1
+L	java:S106"+Replace this use of System.out by a logger.(Ñ½¢Îùÿÿÿÿ8‹°—‡¸1
+G	java:S106"+Replace this use of System.out by a logger.(…îÙ8‹°—‡¸1
+L	java:S106"+Replace this use of System.out by a logger.(‹µ‹¶ıÿÿÿÿ8°—‡¸1
+L	java:S106"+Replace this use of System.out by a logger.(ªÓ¼áşÿÿÿÿ8°—‡¸1
+L	java:S106!"+Replace this use of System.out by a logger.(‹µ‹¶ıÿÿÿÿ8°—‡¸1
+L	java:S106#"+Replace this use of System.out by a logger.(ªÓ¼áşÿÿÿÿ8’°—‡¸1
+L	java:S106-"+Replace this use of System.out by a logger.(‚Ï…¿ÿÿÿÿÿ8”°—‡¸1
+C	java:S1312""Add a default case to this switch.(»€Ğıÿÿÿÿ8•°—‡¸1
+F	java:S1066"+Replace this use of System.out by a logger.(İÇ-8–°—‡¸1
+G	java:S106="+Replace this use of System.out by a logger.(Ö©î8—°—‡¸1
+G	java:S106A"+Replace this use of System.out by a logger.(¼—–8˜°—‡¸1
+Q
+java:S1128"/Remove this unused import 'java.sql.SQLOutput'.(ê¤òÃùÿÿÿÿ8™°—‡¸1
