@@ -1,0 +1,55 @@
+
+9
+java:S1643k"Use a StringBuilder instead.(“—Ä—8§øÕ¡¼1
+7
+java:S1220""Move this file to a named package.8°†´¡¼1
+o
+java:S3776"RRefactor this method to reduce its Cognitive Complexity from 39 to the 15 allowed.(Çµí‘8‘‡´¡¼1
+\
+java:S1854":Remove this useless assignment to local variable "array2".(¹ë÷Ÿşÿÿÿÿ8’‡´¡¼1
+W
+java:S1854/":Remove this useless assignment to local variable "array4".(´š¾ó8’‡´¡¼1
+U
+java:S1854."8Remove this useless assignment to local variable "num2".(»ç†ö8’‡´¡¼1
+V
+java:S18543"9Remove this useless assignment to local variable "index".(ºËÏº8’‡´¡¼1
+C
+java:S1659J"!Declare "max" on a separate line.(©üÜúÿÿÿÿ8“‡´¡¼1
+D
+java:S1659S""Declare "min2" on a separate line.(¤×¿œøÿÿÿÿ8“‡´¡¼1
+A
+java:S1659^"Declare "k" on a separate line.(àÌªšşÿÿÿÿ8‘ùÕ¡¼1
+L
+java:S1197"*Move the array designators [] to the type.(Ä»Àäúÿÿÿÿ8“‡´¡¼1
+G	java:S106"+Replace this use of System.out by a logger.(­Èì™8“‡´¡¼1
+L	java:S106"+Replace this use of System.out by a logger.(ä­¯üøÿÿÿÿ8”‡´¡¼1
+F	java:S106"+Replace this use of System.out by a logger.(‡ğä.8”‡´¡¼1
+M
+java:S1481"+Remove this unused "array2" local variable.(¹ë÷Ÿşÿÿÿÿ8”‡´¡¼1
+I
+java:S1481"'Remove this unused "x1" local variable.(©éäôıÿÿÿÿ8”‡´¡¼1
+L	java:S106 "+Replace this use of System.out by a logger.(€îñıÿÿÿÿ8”‡´¡¼1
+G	java:S106+"+Replace this use of System.out by a logger.(Ì¦ßè8•‡´¡¼1
+F
+java:S1481.")Remove this unused "num2" local variable.(»ç†ö8•‡´¡¼1
+H
+java:S1481/"+Remove this unused "array4" local variable.(´š¾ó8•‡´¡¼1
+H
+java:S14810"+Remove this unused "index1" local variable.(×Àµ†8•‡´¡¼1
+G	java:S1065"+Replace this use of System.out by a logger.(‰˜†•8•‡´¡¼1
+G	java:S106>"+Replace this use of System.out by a logger.(Ãç‡¤8•‡´¡¼1
+G	java:S106@"+Replace this use of System.out by a logger.(öÈÛ¡8•‡´¡¼1
+G
+java:S1197B"*Move the array designators [] to the type.(ëª8•‡´¡¼1
+L	java:S106F"+Replace this use of System.out by a logger.(½îÚ€ùÿÿÿÿ8•‡´¡¼1
+G
+java:S1197I"*Move the array designators [] to the type.(Ò Ò®8•‡´¡¼1
+L	java:S106O"+Replace this use of System.out by a logger.(İÊ¹Éùÿÿÿÿ8–‡´¡¼1
+L
+java:S1197R"*Move the array designators [] to the type.(ù“èüÿÿÿÿ8–‡´¡¼1
+G	java:S106Z"+Replace this use of System.out by a logger.(ÚÇŒŸ8–‡´¡¼1
+L	java:S106n"+Replace this use of System.out by a logger.(®ıáëûÿÿÿÿ8”ùÕ¡¼1
+Q
+java:S1128"/Remove this unused import 'java.sql.SQLOutput'.(ê¤òÃùÿÿÿÿ8£–µ¡¼1
+ã
+java:S6541"ÅA "Brain Method" was detected. Refactor it to reduce at least one of the following metrics: LOC from 92 to 64, Complexity from 25 to 14, Nesting Level from 3 to 2, Number of Variables from 43 to 6.(Çµí‘8–‡´¡¼1

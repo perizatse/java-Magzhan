@@ -1,0 +1,32 @@
+
+m	java:S117>"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¶İé›8‹†„ó¹1
+m	java:S117?"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(«´ªï8†„ó¹1
+r	java:S117@"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¯¸óÿÿÿÿÿ8†„ó¹1
+m	java:S117A"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¬€É8†„ó¹1
+7
+java:S1220""Move this file to a named package.8Ÿ†„ó¹1
+o
+java:S3776"RRefactor this method to reduce its Cognitive Complexity from 22 to the 15 allowed.(Çµí‘8¦†„ó¹1
+G	java:S106	"+Replace this use of System.out by a logger.(—¼îƒ8©†„ó¹1
+G	java:S106"+Replace this use of System.out by a logger.(ª‰ßá8©†„ó¹1
+L	java:S106"+Replace this use of System.out by a logger.(À š„şÿÿÿÿ8ª†„ó¹1
+G	java:S106"+Replace this use of System.out by a logger.(¥ãÁì8ª†„ó¹1
+G	java:S106"+Replace this use of System.out by a logger.(Â—È³8«†„ó¹1
+L	java:S106"+Replace this use of System.out by a logger.(á«µÂùÿÿÿÿ8«†„ó¹1
+L	java:S106!"+Replace this use of System.out by a logger.(²Úº‚şÿÿÿÿ8¬†„ó¹1
+G	java:S106$"+Replace this use of System.out by a logger.(¬Ğª8­†„ó¹1
+G	java:S106'"+Replace this use of System.out by a logger.(ŠƒÌ8®†„ó¹1
+L	java:S106*"+Replace this use of System.out by a logger.(Ø»„§şÿÿÿÿ8®†„ó¹1
+G	java:S106-"+Replace this use of System.out by a logger.(ÕŸïñ8¯†„ó¹1
+G	java:S1060"+Replace this use of System.out by a logger.(ºÿÜ8¯†„ó¹1
+L	java:S1063"+Replace this use of System.out by a logger.(òš²öşÿÿÿÿ8¯†„ó¹1
+L	java:S1066"+Replace this use of System.out by a logger.(ãºÄ²ıÿÿÿÿ8°†„ó¹1
+F	java:S106D"+Replace this use of System.out by a logger.(¸ØïU8±†„ó¹1
+L	java:S106F"+Replace this use of System.out by a logger.(İè¬øÿÿÿÿ8²†„ó¹1
+G	java:S106H"+Replace this use of System.out by a logger.(ºÙ„½8²†„ó¹1
+F	java:S106J"+Replace this use of System.out by a logger.(×Ë D8²†„ó¹1
+L	java:S106T"+Replace this use of System.out by a logger.(‘ùù¹ıÿÿÿÿ8¢×…ó¹1
+L	java:S106X"+Replace this use of System.out by a logger.(©‹í…ıÿÿÿÿ8¢×…ó¹1
+L	java:S106\"+Replace this use of System.out by a logger.(šåå£ıÿÿÿÿ8£×…ó¹1
+P
+java:S1128".Remove this unused import 'java.util.Scanner'.(ÒÜÅ¸úÿÿÿÿ8ûó¹1

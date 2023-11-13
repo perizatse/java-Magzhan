@@ -1,24 +1,25 @@
 
 7
-java:S1220""Move this file to a named package.8ıŸ³È³1
-L	java:S106"+Replace this use of System.out by a logger.(–ŞØÚşÿÿÿÿ8Ü¢³È³1
-G	java:S106
-"+Replace this use of System.out by a logger.( ì¯Œ8İ¢³È³1
-L	java:S106"+Replace this use of System.out by a logger.(Åü±¾úÿÿÿÿ8Ş¢³È³1
-L	java:S106"+Replace this use of System.out by a logger.(å‹›ìøÿÿÿÿ8Ş¢³È³1
-L	java:S106"+Replace this use of System.out by a logger.(ßÇ³¶úÿÿÿÿ8ß¢³È³1
-L	java:S106"+Replace this use of System.out by a logger.(Åü±¾úÿÿÿÿ8ß¢³È³1
-L	java:S106"+Replace this use of System.out by a logger.(ÎËó©ùÿÿÿÿ8à¢³È³1
-m	java:S128"LEnd this switch case with an unconditional break, return or throw statement.(úâúÿÿÿÿ8à¢³È³1
-m	java:S128"LEnd this switch case with an unconditional break, return or throw statement.(ªëÅŞúÿÿÿÿ8à¢³È³1
-C	java:S131""Add a default case to this switch.(ì»¾úÿÿÿÿ8à¢³È³1
-L	java:S106"+Replace this use of System.out by a logger.(ØÒº…üÿÿÿÿ8á¢³È³1
-L	java:S106 "+Replace this use of System.out by a logger.(Áªªóøÿÿÿÿ8á¢³È³1
-L	java:S106""+Replace this use of System.out by a logger.(Â Úúÿÿÿÿ8â¢³È³1
-m	java:S128+"LEnd this switch case with an unconditional break, return or throw statement.(µ»ïşıÿÿÿÿ8â¢³È³1
-m	java:S128)"LEnd this switch case with an unconditional break, return or throw statement.(úâúÿÿÿÿ8â¢³È³1
-m	java:S128'"LEnd this switch case with an unconditional break, return or throw statement.(ªëÅŞúÿÿÿÿ8â¢³È³1
-F	java:S106("+Replace this use of System.out by a logger.(Úğ€x8ã¢³È³1
-L	java:S106*"+Replace this use of System.out by a logger.(¶ñ®ııÿÿÿÿ8ã¢³È³1
-L	java:S106,"+Replace this use of System.out by a logger.(•‡¦ñúÿÿÿÿ8ä¢³È³1
-L	java:S106."+Replace this use of System.out by a logger.(æè¸‚ÿÿÿÿÿ8ä¢³È³1
+java:S1220""Move this file to a named package.8ï’ûü»1
+L	java:S106"+Replace this use of System.out by a logger.(–ŞØÚşÿÿÿÿ8“”ûü»1
+G	java:S106"+Replace this use of System.out by a logger.( ì¯Œ8•”ûü»1
+L	java:S106"+Replace this use of System.out by a logger.(Åü±¾úÿÿÿÿ8–”ûü»1
+L	java:S106"+Replace this use of System.out by a logger.(å‹›ìøÿÿÿÿ8–”ûü»1
+L	java:S106"+Replace this use of System.out by a logger.(ßÇ³¶úÿÿÿÿ8—”ûü»1
+L	java:S106"+Replace this use of System.out by a logger.(Åü±¾úÿÿÿÿ8—”ûü»1
+L	java:S106"+Replace this use of System.out by a logger.(ÎËó©ùÿÿÿÿ8˜”ûü»1
+m	java:S128!"LEnd this switch case with an unconditional break, return or throw statement.(úâúÿÿÿÿ8˜”ûü»1
+m	java:S128"LEnd this switch case with an unconditional break, return or throw statement.(ªëÅŞúÿÿÿÿ8˜”ûü»1
+C	java:S131""Add a default case to this switch.(ì»¾úÿÿÿÿ8™”ûü»1
+L	java:S106 "+Replace this use of System.out by a logger.(ØÒº…üÿÿÿÿ8™”ûü»1
+L	java:S106""+Replace this use of System.out by a logger.(Áªªóøÿÿÿÿ8š”ûü»1
+L	java:S106$"+Replace this use of System.out by a logger.(Â Úúÿÿÿÿ8š”ûü»1
+m	java:S128-"LEnd this switch case with an unconditional break, return or throw statement.(µ»ïşıÿÿÿÿ8›”ûü»1
+m	java:S128+"LEnd this switch case with an unconditional break, return or throw statement.(úâúÿÿÿÿ8›”ûü»1
+m	java:S128)"LEnd this switch case with an unconditional break, return or throw statement.(ªëÅŞúÿÿÿÿ8›”ûü»1
+F	java:S106*"+Replace this use of System.out by a logger.(Úğ€x8œ”ûü»1
+L	java:S106,"+Replace this use of System.out by a logger.(¶ñ®ııÿÿÿÿ8œ”ûü»1
+L	java:S106."+Replace this use of System.out by a logger.(•‡¦ñúÿÿÿÿ8”ûü»1
+L	java:S1060"+Replace this use of System.out by a logger.(æè¸‚ÿÿÿÿÿ8”ûü»1
+Q
+java:S1128"/Remove this unused import 'java.sql.SQLOutput'.(ê¤òÃùÿÿÿÿ8”ûü»1
