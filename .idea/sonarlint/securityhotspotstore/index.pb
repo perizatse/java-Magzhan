@@ -11,3 +11,7 @@ A
 src/LoopsHW.java,a\e\aeccd41f61cab9b105afe562e475fcbcafc06827
 A
 src/arrays2D.java,1\0\10b6003616e395686c94caf568896a15a38ca9d3
+?
+src/Animal.java,c\9\c9d1c15b1c4ef76bfd08d518b5e833a99f5f7b92
+J
+src/LoopsHWSecondPart.java,5\6\565b32553d4f9550e4b62217b64b486370c0e565

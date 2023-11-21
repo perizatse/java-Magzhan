@@ -1,16 +1,17 @@
 
-n	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(ä„Üèıÿÿÿÿ8ë¥§¤¼1
+n	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(ä„Üèıÿÿÿÿ8ÙñúÀ¾1
 7
-java:S1220""Move this file to a named package.8ì¥§¤¼1
+java:S1220""Move this file to a named package.8ÚñúÀ¾1
 o
-java:S3776"RRefactor this method to reduce its Cognitive Complexity from 23 to the 15 allowed.(Çµí‘8‡¨§¤¼1
+java:S3776"RRefactor this method to reduce its Cognitive Complexity from 26 to the 15 allowed.(Çµí‘8ÌòúÀ¾1
 C
-java:S16595"!Declare "max" on a separate line.(­ÚÅıÿÿÿÿ8ˆ¨§¤¼1
-L	java:S106"+Replace this use of System.out by a logger.(õÓŠ–şÿÿÿÿ8‹¨§¤¼1
-L	java:S106"+Replace this use of System.out by a logger.(ªÓ¼áşÿÿÿÿ8‹¨§¤¼1
-G	java:S106"+Replace this use of System.out by a logger.(‚¨Ö§8Œ¨§¤¼1
-G	java:S106 "+Replace this use of System.out by a logger.(ûåóˆ8Œ¨§¤¼1
-G	java:S106""+Replace this use of System.out by a logger.(äã–8¨§¤¼1
-L	java:S1060"+Replace this use of System.out by a logger.(¡œÄ—ûÿÿÿÿ8¨§¤¼1
-L	java:S1062"+Replace this use of System.out by a logger.(ªÓ¼áşÿÿÿÿ8¨§¤¼1
-E	java:S108:")Either remove or fill this block of code.(†Ê¹8¨§¤¼1
+java:S16598"!Declare "max" on a separate line.(­ÚÅıÿÿÿÿ8ğĞªÁ¾1
+G	java:S106"+Replace this use of System.out by a logger.(Š¸ƒê8ÏòúÀ¾1
+L	java:S106"+Replace this use of System.out by a logger.(ªÓ¼áşÿÿÿÿ8ÏòúÀ¾1
+G	java:S106"+Replace this use of System.out by a logger.(‚¨Ö§8ÏòúÀ¾1
+G	java:S106 "+Replace this use of System.out by a logger.(ûåóˆ8ĞòúÀ¾1
+G	java:S106""+Replace this use of System.out by a logger.(äã–8ĞòúÀ¾1
+L	java:S1060"+Replace this use of System.out by a logger.(¡œÄ—ûÿÿÿÿ8ĞòúÀ¾1
+L	java:S1062"+Replace this use of System.out by a logger.(ªÓ¼áşÿÿÿÿ8ĞòúÀ¾1
+G	java:S106C"+Replace this use of System.out by a logger.(Å¶áç8óĞªÁ¾1
+L	java:S106D"+Replace this use of System.out by a logger.(¾ùôŒùÿÿÿÿ8óĞªÁ¾1

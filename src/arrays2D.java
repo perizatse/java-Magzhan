@@ -12,7 +12,7 @@ public class arrays2D {
         }
         for (int i = 0; i < res.length; i++) {
             for (int j = 0; j < res[0].length; j++) {
-                System.out.println(res[i][j] + " ");
+                System.out.print(res[i][j] + " ");
             }
             System.out.println();
         }
@@ -49,19 +49,24 @@ public class arrays2D {
             }
             System.out.println();
         }
+
+//Task 6.2.13
+
         int[][] arr4 = {{10, 20, 30}, {40, 50, 60}};
-        int min= arr4[0][0], max=min;
+        int min = arr4[0][0], max = min;
 
 
         for (int i = 0; i < arr4.length; i++) {
-            for (int j = 0; i < arr4[0].length; j++){
-                if (max<arr[i][j]){
-
-                }
-
+            for (int j = 0;j < arr4[0].length; j++) {
+                if (max < arr4[i][j])
+                    max = arr4[i][j];
+                if (min > arr4[i][j])
+                    min = arr4[i][j];
             }
-
         }
+        System.out.println(min);
+        System.out.println(max);
 
     }
+
 }
