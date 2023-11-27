@@ -1,13 +1,14 @@
+package MethodsHW;
 
 public class MethodsHW {
     public static void main(String[] args) {
+        // Task 7.1
         int a = 25;
         int b = 37;
         int c = 29;
 
         int minNumber = findMinNumber(a, b, c);
         System.out.println("Наименьшее значение: " + minNumber);
-
 
 
         //Task 7.2
@@ -23,16 +24,11 @@ public class MethodsHW {
         int count1 = countVowels(input);
         System.out.println("Количество гласных букв в строке: " + count1);
 
+
         // Task 7.5
         int number = 1223452;
         int count = countTwos(number);
         System.out.println("Количество цифр 2 в числе: " + count);
-
-
-
-
-
-
 
 
     }
@@ -69,6 +65,7 @@ public class MethodsHW {
         }
         return count;
     }
+
     //Task 7.5
     public static int countTwos(int num) {
         int count = 0;
