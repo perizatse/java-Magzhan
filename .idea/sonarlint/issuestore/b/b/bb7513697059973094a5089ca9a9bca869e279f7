@@ -1,13 +1,13 @@
 
-r	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ØÔïªşÿÿÿÿ8úö§óÀ1
-r	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(·–ñûÿÿÿÿ8úö§óÀ1
-m	java:S117%"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ªèğ¦8úö§óÀ1
-{	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ÂøéÉúÿÿÿÿ8ûö§óÀ1
+r	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ØÔïªşÿÿÿÿ8½Ü‡ØÃ1
+r	java:S117$"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(·–ñûÿÿÿÿ8¾Ü‡ØÃ1
+m	java:S117*"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ªèğ¦8¾Ü‡ØÃ1
+{	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ÂøéÉúÿÿÿÿ8ÀÜ‡ØÃ1
 Y
-java:S1854%"<Remove this useless assignment to local variable "Student3".(ªèğ¦8†÷§óÀ1
+java:S1854*"<Remove this useless assignment to local variable "Student3".(ªèğ¦8È‰ØÃ1
 ^
-java:S1854"<Remove this useless assignment to local variable "Student1".(·–ñûÿÿÿÿ8‡÷§óÀ1
+java:S1854$"<Remove this useless assignment to local variable "Student1".(·–ñûÿÿÿÿ8µŒŠØÃ1
 O
-java:S1481"-Remove this unused "Student1" local variable.(·–ñûÿÿÿÿ8‰÷§óÀ1
+java:S1481$"-Remove this unused "Student1" local variable.(·–ñûÿÿÿÿ8ØÜ‡ØÃ1
 J
-java:S1481%"-Remove this unused "Student3" local variable.(ªèğ¦8‰÷§óÀ1
+java:S1481*"-Remove this unused "Student3" local variable.(ªèğ¦8ÕŒŠØÃ1

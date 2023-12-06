@@ -25,3 +25,15 @@ L
 src/MethodsHW/MethodsHW.java,1\c\1cc66665d6d094655d797720ecdb8335387bc517
 H
 src/ClassHW/Student.java,b\b\bb7513697059973094a5089ca9a9bca869e279f7
+I
+src/ClassHW/Triangle.java,1\5\1567f51728171e1a2936a9d89cf7d519f90b020c
+J
+src/ClassHW/Rectangle.java,8\3\83cf9e0f73e86f2716eec018da29a434157a3733
+H
+src/ClassHW/Average.java,e\b\eb64836be33981e7ccd0b072802eaf738068cc6c
+F
+src/ClassHW/Movie.java,8\2\825ff86f96d780fa8a791e327c1c918dd505af15
+M
+src/ClassHW/StarTriangle.java,b\e\be7c382558130487ab3ee51169fc51f1d0f0f86b
+I
+src/ClassHW/Student2.java,5\e\5eca56d11e76a313ba2c7afc7348792d3755b5bb

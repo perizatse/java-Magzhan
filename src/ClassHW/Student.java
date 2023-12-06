@@ -5,19 +5,24 @@ public class Student {
     String surname;
     String adress;
     int id;
-    public Student(String name,String surname, String adress, int id) {
+
+    public Student(String name, String surname, String adress, int id) {
         this.name = name;
-        this.surname=surname;
-        this.adress=adress;
+        this.surname = surname;
+        this.adress = adress;
         this.id = id;
     }
 
-    // Переопределение метода toString
     @Override
     public String toString() {
-        return "Student name=" + name +"surname=" +surname+ "adress= "+adress+ " ID= " + id;
+        return "Student{" + "name='" + name + '\'' +
+                ", surname='" + surname + '\'' +
+                ", address='" + adress + '\'' +
+                ", id=" + id +
+                '}';
     }
-    public Student(){
+
+    public Student() {
 
     }
 
@@ -39,8 +44,6 @@ public class Student {
         Student.surname = "Асмус";
         Student.adress = "Коктем-4";
         Student.id = 26;
-
-
 
 
     }

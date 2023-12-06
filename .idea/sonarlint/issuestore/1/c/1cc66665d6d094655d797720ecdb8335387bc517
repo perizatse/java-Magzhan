@@ -3,9 +3,9 @@ v	java:S120"ZRename this package name to match the regular expression '^[a-z_
 Y
 java:S2589,"7Remove this expression which always evaluates to "true"(ÎÙÎîüÿÿÿÿ8ìôâñÀ1
 Y
-java:S2589*"7Remove this expression which always evaluates to "true"(Ó›—¸şÿÿÿÿ8ìôâñÀ1
-Y
 java:S2589,"7Remove this expression which always evaluates to "true"(ÎÙÎîüÿÿÿÿ8ìôâñÀ1
+Y
+java:S2589*"7Remove this expression which always evaluates to "true"(Ó›—¸şÿÿÿÿ8ìôâñÀ1
 G	java:S106"+Replace this use of System.out by a logger.(°Ääİ8óôâñÀ1
 L	java:S106"+Replace this use of System.out by a logger.(ŞÜçşÿÿÿÿ8õôâñÀ1
 G	java:S106"+Replace this use of System.out by a logger.(‰ãÖ›8öôâñÀ1
